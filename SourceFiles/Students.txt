@@ -1,0 +1,20 @@
+MSV01,Nguyen Van A,01/01/2000,123 Nguyen Trai, Ha Noi.
+MSV02,Tran Thi B,02/02/2001,456 Le Loi, Da Nang.
+MSV03,Hoang Anh C,03/03/2002,789 Nguyen Hue, Ho Chi Minh.
+MSV04,Le Minh D,04/04/2003,321 Pham Ngu Lao, Can Tho.
+MSV05,Nguyen Thi E,05/05/2004,567 Tran Hung Dao, Ha Noi.
+MSV06,Tran Van F,06/06/2005,987 Le Duan, Da Nang.
+MSV07,Pham Thi G,07/07/2006,654 Ly Tu Trong, Ho Chi Minh.
+MSV08,Nguyen Van H,08/08/2007,321 Nguyen Dinh Chieu, Can Tho.
+MSV09,Le Thi I,09/09/2008,789 Tran Phu, Ha Noi.
+MSV10,Tran Minh J,10/10/2009,456 Nguyen Hue, Da Nang.
+MSV11,Hoang Van K,11/11/2010,123 Pham Ngu Lao, Ho Chi Minh.
+MSV12,Nguyen Thi L,12/12/2011,987 Nguyen Trai, Can Tho.
+MSV13,Tran Van M,01/01/2002,654 Le Duan, Ha Noi.
+MSV14,Pham Thi N,02/02/2003,321 Tran Hung Dao, Da Nang.
+MSV15,Nguyen Van O,03/03/2004,789 Ly Tu Trong, Ho Chi Minh.
+MSV16,Le Thi P,04/04/2005,456 Nguyen Dinh Chieu, Can Tho.
+MSV17,Tran Minh Q,05/05/2006,123 Tran Phu, Ha Noi.
+MSV18,Hoang Van R,06/06/2007,987 Nguyen Hue, Da Nang.
+MSV19,Nguyen Thi S,07/07/2008,654 Pham Ngu Lao, Ho Chi Minh.
+MSV20,Tran Van T,08/08/2009,321 Nguyen Trai, Can Tho.

@@ -1,0 +1,20 @@
+CS101,Introduction to Computer Science,2023-05-01.
+CS201,Data Structures and Algorithms,2023-06-01.
+CS301,Operating Systems,2023-07-01.
+EE101,Introduction to Electrical Engineering,2023-05-01.
+EE201,Circuits and Electronics,2023-06-01.
+EE301,Control Systems,2023-07-01.
+MATH101,Calculus I,2023-05-01.
+MATH201,Calculus II,2023-06-01.
+MATH301,Linear Algebra,2023-07-01.
+PHY101,General Physics I,2023-05-01.
+PHY201,General Physics II,2023-06-01.
+CHEM101,General Chemistry I,2023-05-01.
+CHEM201,General Chemistry II,2023-06-01.
+BIO101,Introduction to Biology,2023-05-01.
+BIO201,Genetics,2023-06-01.
+ENG101,English Composition I,2023-05-01.
+ENG201,English Composition II,2023-06-01.
+HIS101,World History I,2023-05-01.
+HIS201,World History II,2023-06-01.
+PSY101,Introduction to Psychology,2023-05-01.

@@ -1,0 +1,121 @@
+Total of students: 20
+Student 1: 
+ID student: MSV01
+Student name: Nguyen Van A
+Birthday: 1/1/2000
+Address: 123 Nguyen Trai, Ha Noi
+==========================================
+Student 2: 
+ID student: MSV02
+Student name: Tran Thi B
+Birthday: 2/2/2001
+Address: 456 Le Loi, Da Nang
+==========================================
+Student 3: 
+ID student: MSV03
+Student name: Hoang Anh C
+Birthday: 3/3/2002
+Address: 789 Nguyen Hue, Ho Chi Minh
+==========================================
+Student 4: 
+ID student: MSV04
+Student name: Le Minh D
+Birthday: 4/4/2003
+Address: 321 Pham Ngu Lao, Can Tho
+==========================================
+Student 5: 
+ID student: MSV05
+Student name: Nguyen Thi E
+Birthday: 5/5/2004
+Address: 567 Tran Hung Dao, Ha Noi
+==========================================
+Student 6: 
+ID student: MSV06
+Student name: Tran Van F
+Birthday: 6/6/2005
+Address: 987 Le Duan, Da Nang
+==========================================
+Student 7: 
+ID student: MSV07
+Student name: Pham Thi G
+Birthday: 7/7/2006
+Address: 654 Ly Tu Trong, Ho Chi Minh
+==========================================
+Student 8: 
+ID student: MSV08
+Student name: Nguyen Van H
+Birthday: 8/8/2007
+Address: 321 Nguyen Dinh Chieu, Can Tho
+==========================================
+Student 9: 
+ID student: MSV09
+Student name: Le Thi I
+Birthday: 9/9/2008
+Address: 789 Tran Phu, Ha Noi
+==========================================
+Student 10: 
+ID student: MSV10
+Student name: Tran Minh J
+Birthday: 10/10/2009
+Address: 456 Nguyen Hue, Da Nang
+==========================================
+Student 11: 
+ID student: MSV11
+Student name: Hoang Van K
+Birthday: 11/11/2010
+Address: 123 Pham Ngu Lao, Ho Chi Minh
+==========================================
+Student 12: 
+ID student: MSV12
+Student name: Nguyen Thi L
+Birthday: 12/12/2011
+Address: 987 Nguyen Trai, Can Tho
+==========================================
+Student 13: 
+ID student: MSV13
+Student name: Tran Van M
+Birthday: 1/1/2002
+Address: 654 Le Duan, Ha Noi
+==========================================
+Student 14: 
+ID student: MSV14
+Student name: Pham Thi N
+Birthday: 2/2/2003
+Address: 321 Tran Hung Dao, Da Nang
+==========================================
+Student 15: 
+ID student: MSV15
+Student name: Nguyen Van O
+Birthday: 3/3/2004
+Address: 789 Ly Tu Trong, Ho Chi Minh
+==========================================
+Student 16: 
+ID student: MSV16
+Student name: Le Thi P
+Birthday: 4/4/2005
+Address: 456 Nguyen Dinh Chieu, Can Tho
+==========================================
+Student 17: 
+ID student: MSV17
+Student name: Tran Minh Q
+Birthday: 5/5/2006
+Address: 123 Tran Phu, Ha Noi
+==========================================
+Student 18: 
+ID student: MSV18
+Student name: Hoang Van R
+Birthday: 6/6/2007
+Address: 987 Nguyen Hue, Da Nang
+==========================================
+Student 19: 
+ID student: MSV19
+Student name: Nguyen Thi S
+Birthday: 7/7/2008
+Address: 654 Pham Ngu Lao, Ho Chi Minh
+==========================================
+Student 20: 
+ID student: MSV20
+Student name: Tran Van T
+Birthday: 8/8/2009
+Address: 321 Nguyen Trai, Can Tho
+==========================================
